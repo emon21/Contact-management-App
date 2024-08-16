@@ -40,7 +40,7 @@ cp .env.example .env
 
 php artisan key:generate
 
-# setup the database credentials and migrate database with seeders
+# setup the database credentials and migrate database
 
 php artisan migrate
 
