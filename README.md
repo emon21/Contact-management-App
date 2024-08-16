@@ -22,7 +22,7 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 # Clone the repo
 
-git clone https://github.com/devboyarif/leave-management-system.git
+git clone https://github.com/emon21/Contact-management-App/tree/master
 
 # Install composer dependency
 
